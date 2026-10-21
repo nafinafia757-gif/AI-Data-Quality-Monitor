@@ -250,11 +250,11 @@ with st.sidebar:
     st.markdown("---")
 
     st.radio(
-        "Navigation",
-        [" Home", " Upload Dataset", "▤ Data Quality Report", " About"],
-        key="navigation",
-        label_visibility="collapsed"
-    )
+    "Navigation",
+    ["🏠 Home", "☁️ Upload Dataset", "▤ Data Quality Report", "ⓘ About"],
+    key="navigation",
+    label_visibility="collapsed"
+)
 
     st.markdown("<br><br>", unsafe_allow_html=True)
     st.markdown(

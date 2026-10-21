@@ -2,6 +2,12 @@
 An AI-powered data quality monitoring system using Python, Streamlit, and DistilBERT to detect data quality issues, identify missing values and duplicates, and analyze noisy text data.
 AI Data Quality Monitor
 
+## Live Demo
+
+Try the deployed AI Data Quality Monitor application here:
+
+ "Launch AI Data Quality Monitor" (https://ai-data-quality-monitor-6pvidmxdery8owq7azmyxf.streamlit.app/)
+
 ## Project Overview
 
 AI Data Quality Monitor is a data quality analysis application developed using Python, Streamlit, and Deep Learning. It helps users identify common data quality issues and analyze text data using a trained DistilBERT model.
